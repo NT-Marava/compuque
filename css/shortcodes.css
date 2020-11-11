@@ -912,7 +912,7 @@ body{ counter-reset: section; }
 
 .featured-icon-box.style1{ padding: 41px 20px 31px; }
 
-.featured-icon-box.style2 { padding: 0 25px 0 0; position: relative; }
+/* .featured-icon-box.style2 { padding: 0 25px 0 0; position: relative; } */
 .featured-icon-box.style2 .ttm-icon{ margin-bottom: 0; }
 .featured-icon-box.style2 .featured-title h5{ font-size: 18px; line-height: 26px; margin-bottom: 0;}
 .col-md-4:not(:last-child) .featured-icon-box.style2:after{
